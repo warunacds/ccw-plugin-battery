@@ -1,0 +1,8 @@
+{
+  "name": "battery",
+  "version": "1.0.0",
+  "description": "Shows laptop battery level and charging status",
+  "entry": "battery.sh",
+  "cache_ttl": "1m",
+  "interpreter": "sh"
+}
