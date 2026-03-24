@@ -5,7 +5,7 @@ A [ccstatuswidgets](https://github.com/warunacds/ccstatuswidgets) plugin that sh
 ## Install
 
 ```bash
-ccw plugin add github.com/warunacds/ccw-plugin-battery
+ccw plugin add https://github.com/warunacds/ccw-plugin-battery
 ```
 
 ## Enable
